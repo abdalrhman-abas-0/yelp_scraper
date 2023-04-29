@@ -1,0 +1,11 @@
+{
+    "headers": {
+        "Origin": "https://www.yellowpages.com",
+        "User-Agent": "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/530.19.2 (KHTML, like Gecko) Version/4.0.2 Safari/530.19.1",
+        "Referer": "https://www.yelp.com/search?find_desc=accountants&find_loc=San+Francisco%2C+CA"
+    },
+    "break": false,
+    "nap": 5,
+    "interruption": false,
+    "empty element": false
+}
